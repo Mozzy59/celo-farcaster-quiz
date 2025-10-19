@@ -1,0 +1,16 @@
+{
+  "headers": [
+    {
+      "source": "/.well-known/farcaster.json",
+      "headers": [
+        { "key": "Content-Type", "value": "application/json" }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "src": "/.well-known/farcaster.json",
+      "dest": "/public/.well-known/farcaster.json"
+    }
+  ]
+}
