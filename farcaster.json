@@ -1,0 +1,14 @@
+{
+  "frame": {
+    "name": "Celo Quest: Web3 Security Quiz",
+    "version": "1",
+    "iconUrl": "https://yourdomain.vercel.app/icon.png",
+    "homeUrl": "https://yourdomain.vercel.app/",
+    "imageUrl": "https://yourdomain.vercel.app/image.png",
+    "splashImageUrl": "https://yourdomain.vercel.app/splash.png",
+    "splashBackgroundColor": "#35D07F",
+    "webhookUrl": "https://yourdomain.vercel.app/api/webhook",
+    "subtitle": "Learn Celo & Web3 safety through a 50-question interactive quiz.",
+    "description": "An on-chain quiz app for learning Celo ecosystem fundamentals and Web3 security best practices."
+  }
+}
