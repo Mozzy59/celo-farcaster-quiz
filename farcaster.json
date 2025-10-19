@@ -4,11 +4,12 @@
     "version": "1",
     "iconUrl": "https://celo-farcaster-quiz.vercel.app/icon.png",
     "homeUrl": "https://celo-farcaster-quiz.vercel.app/",
-    "imageUrl": "https://celo-farcaster-quiz.vercel.app/image.png",
+    "imageUrl": "https://celo-farcaster-quiz.vercel.app/hero.png",
     "splashImageUrl": "https://celo-farcaster-quiz.vercel.app/splash.png",
     "splashBackgroundColor": "#35D07F",
-    "webhookUrl": "https://celo-farcaster-quiz.vercel.app/api/webhook",
-    "subtitle": "Interactive 50-question challenge on Celo & Web3 Safety.",
-    "description": "Test your knowledge of the Celo ecosystem and learn secure on-chain practices through an interactive quiz mini app built on Farcaster."
+    "webhookUrl": "https://api.neynar.com/fapp/1aee5778-4dfd-4fb4-8409-da13c02e8f16/event",
+    "subtitle": "Test your Web3 & Celo security skills with 50 interactive questions.",
+    "description": "An educational Farcaster mini app that helps users learn about Celo blockchain and Web3 security through a gamified 50-question quiz. Built to promote awareness and safe crypto habits.",
+    "theme": "dark"
   }
 }
