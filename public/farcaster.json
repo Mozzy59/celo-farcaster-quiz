@@ -2,14 +2,13 @@
   "frame": {
     "name": "Celo Quest: Web3 Security Quiz",
     "version": "1",
-    "iconUrl": "https://celo-farcaster-quiz.vercel.app/icon.png",
-    "homeUrl": "https://celo-farcaster-quiz.vercel.app/",
-    "imageUrl": "https://celo-farcaster-quiz.vercel.app/hero.png",
-    "splashImageUrl": "https://celo-farcaster-quiz.vercel.app/splash.png",
-    "splashBackgroundColor": "#35D07F",
-    "webhookUrl": "https://api.neynar.com/fapp/1aee5778-4dfd-4fb4-8409-da13c02e8f16/event",
-    "subtitle": "Test your Web3 & Celo security skills with 50 interactive questions.",
-    "description": "An educational Farcaster mini app that helps users learn about Celo blockchain and Web3 security through a gamified 50-question quiz. Built to promote awareness and safe crypto habits.",
-    "theme": "dark"
+    "iconUrl": "https://celo-quest-web3-security-quiz-l2jo0axje-mrmosbys-projects.vercel.app/icon.png",
+    "homeUrl": "https://celo-quest-web3-security-quiz-l2jo0axje-mrmosbys-projects.vercel.app/",
+    "imageUrl": "https://celo-quest-web3-security-quiz-l2jo0axje-mrmosbys-projects.vercel.app/hero.png",
+    "splashImageUrl": "https://celo-quest-web3-security-quiz-l2jo0axje-mrmosbys-projects.vercel.app/splash.png",
+    "splashBackgroundColor": "#00A86B",
+    "webhookUrl": "https://celo-quest-web3-security-quiz-l2jo0axje-mrmosbys-projects.vercel.app/api/webhook",
+    "subtitle": "Test your Web3 & Celo knowledge.",
+    "description": "An interactive Web3 & Celo security quiz built on Farcaster. Challenge your knowledge and climb the leaderboard!"
   }
 }
