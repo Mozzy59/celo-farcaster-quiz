@@ -6,11 +6,14 @@ const nextConfig = {
       {
         source: '/.well-known/farcaster.json',
         headers: [
-          { key: 'Content-Type', value: 'application/json' },
-        ],
-      },
+          {
+            key: 'Content-Type',
+            value: 'application/json'
+          }
+        ]
+      }
     ];
-  },
+  }
 };
 
 module.exports = nextConfig;
