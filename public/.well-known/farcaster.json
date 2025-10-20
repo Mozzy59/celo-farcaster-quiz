@@ -2,10 +2,10 @@
   "frame": {
     "name": "Celo Quest: Web3 Security Quiz",
     "version": "1.0.0",
-    "iconUrl": "https://celo-farcaster-quiz.vercel.app/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/Mozzy59/celo-farcaster-quiz/main/public/icon.png",
     "homeUrl": "https://celo-farcaster-quiz.vercel.app/",
-    "imageUrl": "https://celo-farcaster-quiz.vercel.app/hero.png",
-    "splashImageUrl": "https://celo-farcaster-quiz.vercel.app/splash.png",
+    "imageUrl": "https://raw.githubusercontent.com/Mozzy59/celo-farcaster-quiz/main/public/hero.png",
+    "splashImageUrl": "https://raw.githubusercontent.com/Mozzy59/celo-farcaster-quiz/main/public/splash.png",
     "splashBackgroundColor": "#00A86B",
     "webhookUrl": "https://celo-farcaster-quiz.vercel.app/api/webhook",
     "buttonTitle": "Start Quiz",
