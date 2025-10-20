@@ -7,6 +7,6 @@
     "buttonTitle": "Start Quiz",
     "splashImageUrl": "https://github.com/Mozzy59/celo-farcaster-quiz/raw/main/public/splash.png",
     "splashBackgroundColor": "#f7f7f7",
-    "webhookUrl": "https://celo-quest-web3-security-quiz-l2jo0axje-mrmosbys-projects.vercel.app/api/webhook"
+    "webhookUrl": "https://celo-farcaster-quiz.vercel.app/api/webhook"
   }
 }
