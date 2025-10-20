@@ -1,12 +1,15 @@
 {
-  "miniapp": {
-    "version": "1",
-    "name": "CeloQuest-Web3SecurityQuiz",
-    "iconUrl": "https://github.com/Mozzy59/celo-farcaster-quiz/raw/main/public/icon.png",
-    "imageUrl": "https://github.com/Mozzy59/celo-farcaster-quiz/raw/main/public/image.png",
+  "frame": {
+    "name": "Celo Quest: Web3 Security Quiz",
+    "version": "1.0.0",
+    "iconUrl": "https://celo-farcaster-quiz.vercel.app/icon.png",
+    "homeUrl": "https://celo-farcaster-quiz.vercel.app/",
+    "imageUrl": "https://celo-farcaster-quiz.vercel.app/hero.png",
+    "splashImageUrl": "https://celo-farcaster-quiz.vercel.app/splash.png",
+    "splashBackgroundColor": "#00A86B",
+    "webhookUrl": "https://celo-farcaster-quiz.vercel.app/api/webhook",
     "buttonTitle": "Start Quiz",
-    "splashImageUrl": "https://github.com/Mozzy59/celo-farcaster-quiz/raw/main/public/splash.png",
-    "splashBackgroundColor": "#f7f7f7",
-    "webhookUrl": "https://celo-farcaster-quiz.vercel.app/api/webhook"
+    "subtitle": "Test your Web3 & Celo knowledge",
+    "description": "Interactive Web3 & Celo security quiz built on Farcaster. Learn, play, and climb the leaderboard!"
   }
 }
