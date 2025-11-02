@@ -10,5 +10,5 @@ A Farcaster Mini App built to raise Celo awareness and Web3 safety literacy thro
 ### 🚀 Tech Stack
 - Next.js / Vercel
 - Neynar API
-- Celo blockchain integration
+- Celo blockchain integration.
 
